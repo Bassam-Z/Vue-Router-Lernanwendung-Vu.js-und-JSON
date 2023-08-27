@@ -1,0 +1,10 @@
+{
+    "jobs":[
+        {"title": "Web Developer", "id": 1, "ditails": "lorem"},
+        {"title": "App Developer", "id": 2, "ditails": "lorem"},
+        {"title": "UX Developer", "id": 3, "ditails": "lorem"}
+    ],
+    "blogs":[
+        
+    ]
+}
